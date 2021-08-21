@@ -34,3 +34,5 @@ Tener instalado la herramienta Mysql Workbench
 ![](images/backups/import-2-step.png)
 
 3. Una vez finalize el proceso de importación, la consola mostrará un mensaje de operación exitosa.
+
+Imagenes tomadas del programa workbech.

@@ -23,6 +23,18 @@ create table countries
     region   varchar(20) null,
     primary key (code)
 );
+
+create table cities
+(
+    id      int         not null auto_increment,
+    name    varchar(80) not null,
+    country char(2)     not null,
+    primary key (id),
+    constraint fk_country_city
+        foreign key (country)
+            references countries (code)
+            on delete cascade
+);
 ```
 
 ## Alter

@@ -42,3 +42,4 @@ Abrir el instalador del sistema de gestión de bases de datos mysql para inciali
 
 ![](images/1-gestion-software/instalacion-7.png)
 
+Imagenes tomadas del instalador de mysql.
