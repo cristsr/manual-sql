@@ -9,6 +9,8 @@ es necesario registrar en una base de datos el inventario de equipos y su ubicac
 
 Formule una solución optima que permita el manejo de la información de inventario de equipos de computo de la compañía.
 
-## Diagrama entidad relación.
+## Modelo relacional
 
-![](images/4-inventario/inventario.png)
+A continuación se presenta la solución planteada en un modelo relacional
+
+![](images/4-inventario/Inventory.svg)
